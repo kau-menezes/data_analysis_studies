@@ -1,0 +1,101 @@
+Order_ID,Product,Category,Quantity,Price,Order_Date,Customer_City
+ORD1000,Keyboard,Accessories,2,420,1/1/2023,Phoenix
+ORD1001,Laptop,Electronics,5,416,1/2/2023,Houston
+ORD1002,Laptop,Electronics,4,236,1/3/2023,Los Angeles
+ORD1003,Mouse,Accessories,1,289,1/4/2023,Chicago
+ORD1004,Phone,Electronics,5,424,1/5/2023,Los Angeles
+ORD1005,Laptop,Accessories,3,263,1/6/2023,Los Angeles
+ORD1006,Keyboard,Accessories,3,464,1/7/2023,Houston
+ORD1007,Monitor,Electronics,2,415,1/8/2023,Los Angeles
+ORD1008,Keyboard,Accessories,4,441,1/9/2023,Chicago
+ORD1009,Keyboard,Accessories,4,136,1/10/2023,Chicago
+ORD1010,Keyboard,Accessories,4,145,1/11/2023,Los Angeles
+ORD1011,Monitor,Accessories,4,484,1/12/2023,Los Angeles
+ORD1012,Keyboard,Accessories,3,66,1/13/2023,Houston
+ORD1013,Keyboard,Accessories,1,429,1/14/2023,New York
+ORD1014,Monitor,Accessories,3,228,1/15/2023,Chicago
+ORD1015,Mouse,Accessories,4,408,1/16/2023,Phoenix
+ORD1016,Monitor,Electronics,3,338,1/17/2023,Houston
+ORD1017,Monitor,Accessories,2,87,1/18/2023,Los Angeles
+ORD1018,Laptop,Electronics,2,200,1/19/2023,Phoenix
+ORD1019,Keyboard,Accessories,3,141,1/20/2023,New York
+ORD1020,Monitor,Electronics,5,345,1/21/2023,Houston
+ORD1021,Mouse,Electronics,5,210,1/22/2023,New York
+ORD1022,Mouse,Accessories,1,498,1/23/2023,Los Angeles
+ORD1023,Phone,Electronics,2,448,1/24/2023,Los Angeles
+ORD1024,Keyboard,Electronics,3,299,1/25/2023,Los Angeles
+ORD1025,Laptop,Electronics,3,61,1/26/2023,Los Angeles
+ORD1026,Keyboard,Accessories,5,452,1/27/2023,Los Angeles
+ORD1027,Monitor,Accessories,2,497,1/28/2023,Chicago
+ORD1028,Monitor,Accessories,4,161,1/29/2023,Chicago
+ORD1029,Keyboard,Electronics,2,446,1/30/2023,Phoenix
+ORD1030,Keyboard,Accessories,1,199,1/31/2023,New York
+ORD1031,Laptop,Accessories,2,361,2/1/2023,Los Angeles
+ORD1032,Laptop,Electronics,5,178,2/2/2023,New York
+ORD1033,Laptop,Electronics,3,39,2/3/2023,Chicago
+ORD1034,Laptop,Electronics,5,272,2/4/2023,Chicago
+ORD1035,Keyboard,Accessories,5,135,2/5/2023,Phoenix
+ORD1036,Monitor,Accessories,2,46,2/6/2023,New York
+ORD1037,Phone,Electronics,1,477,2/7/2023,Los Angeles
+ORD1038,Mouse,Accessories,1,145,2/8/2023,New York
+ORD1039,Mouse,Electronics,1,318,2/9/2023,Houston
+ORD1040,Mouse,Accessories,1,108,2/10/2023,Phoenix
+ORD1041,Mouse,Accessories,1,273,2/11/2023,New York
+ORD1042,Mouse,Electronics,1,333,2/12/2023,Los Angeles
+ORD1043,Mouse,Accessories,5,100,2/13/2023,New York
+ORD1044,Phone,Accessories,5,121,2/14/2023,Houston
+ORD1045,Phone,Electronics,1,177,2/15/2023,Houston
+ORD1046,Mouse,Accessories,5,24,2/16/2023,New York
+ORD1047,Keyboard,Accessories,2,372,2/17/2023,Chicago
+ORD1048,Keyboard,Accessories,5,499,2/18/2023,Phoenix
+ORD1049,Keyboard,Accessories,3,116,2/19/2023,Chicago
+ORD1050,Mouse,Accessories,4,111,2/20/2023,Los Angeles
+ORD1051,Monitor,Accessories,1,226,2/21/2023,Houston
+ORD1052,Monitor,Electronics,2,470,2/22/2023,Los Angeles
+ORD1053,Laptop,Electronics,1,319,2/23/2023,Los Angeles
+ORD1054,Phone,Electronics,2,404,2/24/2023,Phoenix
+ORD1055,Laptop,Electronics,4,443,2/25/2023,Chicago
+ORD1056,Laptop,Accessories,1,237,2/26/2023,Phoenix
+ORD1057,Phone,Accessories,5,49,2/27/2023,Chicago
+ORD1058,Monitor,Accessories,5,278,2/28/2023,Chicago
+ORD1059,Phone,Electronics,5,470,3/1/2023,Los Angeles
+ORD1060,Mouse,Accessories,4,39,3/2/2023,Los Angeles
+ORD1061,Laptop,Accessories,3,166,3/3/2023,Los Angeles
+ORD1062,Keyboard,Accessories,4,207,3/4/2023,Los Angeles
+ORD1063,Monitor,Electronics,4,347,3/5/2023,New York
+ORD1064,Phone,Electronics,5,397,3/6/2023,Houston
+ORD1065,Keyboard,Accessories,1,295,3/7/2023,Houston
+ORD1066,Mouse,Electronics,2,146,3/8/2023,New York
+ORD1067,Laptop,Electronics,5,414,3/9/2023,Los Angeles
+ORD1068,Phone,Electronics,3,25,3/10/2023,Chicago
+ORD1069,Mouse,Accessories,5,131,3/11/2023,Chicago
+ORD1070,Monitor,Accessories,4,402,3/12/2023,Phoenix
+ORD1071,Laptop,Accessories,2,396,3/13/2023,Los Angeles
+ORD1072,Phone,Electronics,4,30,3/14/2023,Chicago
+ORD1073,Laptop,Electronics,1,75,3/15/2023,Houston
+ORD1074,Laptop,Accessories,5,247,3/16/2023,Los Angeles
+ORD1075,Keyboard,Accessories,1,168,3/17/2023,New York
+ORD1076,Laptop,Accessories,4,34,3/18/2023,Phoenix
+ORD1077,Phone,Electronics,4,21,3/19/2023,Houston
+ORD1078,Keyboard,Accessories,2,126,3/20/2023,Chicago
+ORD1079,Laptop,Electronics,5,434,3/21/2023,Chicago
+ORD1080,Keyboard,Accessories,5,260,3/22/2023,Phoenix
+ORD1081,Monitor,Accessories,2,351,3/23/2023,Los Angeles
+ORD1082,Mouse,Electronics,3,426,3/24/2023,New York
+ORD1083,Keyboard,Electronics,2,399,3/25/2023,Phoenix
+ORD1084,Mouse,Accessories,2,416,3/26/2023,New York
+ORD1085,Phone,Electronics,4,163,3/27/2023,Phoenix
+ORD1086,Keyboard,Electronics,3,159,3/28/2023,New York
+ORD1087,Laptop,Accessories,4,284,3/29/2023,Los Angeles
+ORD1088,Phone,Accessories,3,150,3/30/2023,Chicago
+ORD1089,Mouse,Accessories,3,155,3/31/2023,New York
+ORD1090,Monitor,Electronics,2,112,4/1/2023,Houston
+ORD1091,Keyboard,Electronics,4,265,4/2/2023,Los Angeles
+ORD1092,Mouse,Accessories,3,192,4/3/2023,Los Angeles
+ORD1093,Mouse,Accessories,2,253,4/4/2023,New York
+ORD1094,Laptop,Electronics,3,54,4/5/2023,Chicago
+ORD1095,Laptop,Electronics,1,405,4/6/2023,Houston
+ORD1096,Laptop,Accessories,3,439,4/7/2023,Los Angeles
+ORD1097,Monitor,Electronics,4,328,4/8/2023,Chicago
+ORD1098,Laptop,Electronics,2,402,4/9/2023,Chicago
+ORD1099,Keyboard,Accessories,1,178,4/10/2023,Houston
